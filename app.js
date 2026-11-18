@@ -23,7 +23,7 @@ const statusText = document.getElementById("status");
 
 learnButton.addEventListener("click", () => {
     statusText.textContent =
-        "HTML defines structure, CSS controls appearance, " +
+        "HTML defines structure, CSS controls appearance, cool right (Anjar Priandoyo 18 Nov 2026) " +
         "and JavaScript adds behavior.";
 
     learnButton.textContent = "Fact Shown";
